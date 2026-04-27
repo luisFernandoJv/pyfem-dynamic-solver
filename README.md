@@ -9,6 +9,10 @@
 
 ![Simulação FEM Dinâmica](resultados/simulacao_fem.gif)
 
+> **Resultados**
+ <img width="1505" height="490" alt="graficos" src="https://github.com/user-attachments/assets/d2b23a54-fd11-4ddb-b9cf-ee98dd08ed13" />
+
+
 _(Se o GIF não carregar automaticamente, certifique-se de baixar o repositório e abrir localmente)._
 
 ---
